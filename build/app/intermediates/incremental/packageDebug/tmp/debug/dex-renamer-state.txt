@@ -1,0 +1,4 @@
+#Mon Aug 09 13:09:15 IST 2021
+base.0=/Users/udasingh2/Desktop/chat_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

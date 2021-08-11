@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sapient/chatdemo/BuildConfig.java
+ com.sapient.chatdemo.BuildConfig
